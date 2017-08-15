@@ -1,0 +1,11 @@
+/* YOUR STYLING HERE */
+body {
+    text-align: center;
+    border-style: solid;
+    border-color: grey;
+    border-width: 3px;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 25px;
+}
+  
